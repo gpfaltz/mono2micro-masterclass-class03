@@ -1,5 +1,5 @@
 # mono2micro-masterclass-class03
-Monolithic Applcation to Micro Services Applications - Class 02/05
+Monolithic Applcation to Micro Services Applications - Class 03/05
 
 Main Objective: Migrate the Monolithic Travel App to Micro Services Travel Order, Flight and Hotel Apps using Postgresql.
 
